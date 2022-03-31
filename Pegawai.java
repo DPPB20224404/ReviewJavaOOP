@@ -4,4 +4,5 @@ public class Pegawai{
   public void berkerja(){
     System.out.println("Bekerja di " + this.unitKerja);
   }
+  
 }

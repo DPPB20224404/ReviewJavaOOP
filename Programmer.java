@@ -1,4 +1,5 @@
 public class Programmer extends Pekerja implements Buruh{
+  
   @Override
   public void bekerja(){
     System.out.println("Bekerja di depan komputer");

@@ -2,6 +2,7 @@ import java.util.*;
 
 class Main {
   public static void main(String[] args) {
+    
     ArrayList<String> namaKelas = new ArrayList<>();
     namaKelas.add("44-01");
     namaKelas.add("44-02");

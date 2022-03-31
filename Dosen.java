@@ -1,4 +1,5 @@
 public class Dosen extends Pegawai{
+  
   private String nama;
   private int nip;
 
